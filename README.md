@@ -1,0 +1,3 @@
+# candidate
+assignment
+it is not complete, i am not experienced with node js and express js but did my best, get an error while reading the datebase...
